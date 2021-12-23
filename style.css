@@ -1,0 +1,38 @@
+body{background-color: hsl(0, 0%, 95%, 0.75);font-family: 'Lexend Deca', sans-serif;font-weight:400;width: 1440px;font-size: 15px;;
+color:white;
+}
+.genel{
+    width: 750;height: auto;margin: 100px 170px;
+}
+.bir{background-color: hsl(31, 77%, 52%);width: 250px;height: 400px;padding: 50px;float: left;}
+.iki{background-color: hsl(184, 100%, 22%);width: 250px;height: 400px;padding: 50px;float: left;}
+.uc{background-color:hsl(179, 100%, 13%);width: 250px;height: 400px;padding: 50px;float: left;}
+p{line-height: 22px;}
+.buyuk{ font-family: 'Big Shoulders Display', cursive;font-weight: 700;font-size: 30px;}
+a{padding:14px ; display: block;width: 120px;height: 26px; ;
+ background-color: white;text-align: center;border-radius:25px 25px ;text-decoration: none;
+}
+a#bir{
+    color:hsl(31, 77%, 52%);
+}
+a#iki{
+    color:hsl(184, 100%, 22%);
+}
+a#uc{
+    color:hsl(179, 100%, 13%);
+}
+a#bir:hover{
+    background-color:hsl(31, 77%, 52% );color: white;border:2px solid white;
+}
+a#iki:hover{
+    background-color:hsl(184, 100%, 22%) ;color: white;border:2px solid white;
+}
+a#uc:hover{
+    background-color:hsl(179, 100%, 13%) ;color: white;border:2px solid white;
+}
+.attribution{
+    position: absolute;top: 650px;left: 620px;
+}
+.alt{
+    color: black;
+}
